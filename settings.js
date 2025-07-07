@@ -9,10 +9,10 @@ const chalk = require('chalk')
 require('dotenv').config()
 
 //contact details - sensitive info moved to .env
-global.SESSION_ID = process.env.SESSION_ID || "" //fallback to default if not in .env
-global.ownernomer = process.env.OWNER_NUMBER || "255614195217"
+global.SESSION_ID = process.env.SESSION_ID || "HansTz&ytZykZ5K#1BgIV15EMwBVtBW6LZWAowsmdKjEk50LLXue0XASOIw" //fallback to default if not in .env
+global.ownernomer = process.env.OWNER_NUMBER || "50935947307"
 
-global.ownername = process.env.OWNER_NAME || "HansTech"
+global.ownername = process.env.OWNER_NAME || "𝐖𝐎𝐋𝐕𝐄𝐒 ＬＯＲＥＮＺＯ🧛"
 
 global.ytname = "HANSTZ-TECH"
 
@@ -20,9 +20,9 @@ global.socialm = "GitHub: Mrhanstz"
 
 global.location = "AFRICA, TANZANIA, DODOMA"
 
-global.ownernumber = process.env.OWNER_NUMBER || '255614195217'  //Owner number
+global.ownernumber = process.env.OWNER_NUMBER || '50935947307'  //Owner number
 
-global.ownername = process.env.OWNER_NAME || 'HANSTZ' //owner name
+global.ownername = process.env.OWNER_NAME || '𝐖𝐎𝐋𝐕𝐄𝐒 ＬＯＲＥＮＺＯ🧛' //owner name
 global.botname = 'HANS-XMD' //name of the bot
 
 //sticker details
@@ -34,7 +34,7 @@ global.themeemoji = '⚠️'
 global.wm = "HANS BOT"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
+global.link = 'https://chat.whatsapp.com/G5y8sDWgVYi9NgSboIBlam?mode=ac_t'
 
 //custom prefix
 global.prefa = ['','!','.','#','/']
